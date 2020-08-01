@@ -4,4 +4,4 @@ A new Flutter application.
 
 ## Getting Started
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=pHL3ZSGtQhM)
+[![IMAGE ALT TEXT HERE](https://github.com/Shubham-Narkhede/animated_splash_screen/blob/master/output/output_1.jpg)](https://www.youtube.com/watch?v=pHL3ZSGtQhM)
